@@ -1,4 +1,4 @@
-module github.com/joncalhoun/migrate
+module github.com/jrossi/migrate
 
 go 1.14
 
