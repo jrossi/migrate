@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/joncalhoun/migrate"
+	"github.com/jrossi/migrate"
 	_ "github.com/mattn/go-sqlite3"
 )
 
